@@ -1,0 +1,78 @@
+html {
+    font-size: 62.5%;
+    font-family: "Red Hat Display", sans-serif;
+
+    @media screen and (min-width: 1920px) {
+        font-size: 62.5%;
+    }
+
+    @media screen and (min-width: 1440px) {
+        font-size: 56.25%;
+    }
+
+    @media screen and (max-width: 1366px) {
+        font-size: 50%;
+    }
+
+    @media screen and (max-width: 1280px) {
+        font-size: 43.75%;
+    }
+}
+
+body {
+    font-size: 1.6rem;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.titulo {
+    font-size: 5rem;
+    font-weight: bold;
+
+    line-height: 101.8%;
+    margin-bottom: 2rem;
+}
+
+.sub.titulo {
+    font-size: 2.5rem;
+    font-weight: 500;
+
+    color: var(--black-logo);
+}
+
+.titulo.black {
+    color: var(--black-logo);
+}
+
+.titulo.white {
+    color: var(--white);
+}
+
+.titulo-gray {
+    color: var(--gray-minor-font);
+}
+
+.titulo-blue {
+    color: var(--blue-logo);
+}
+
+.titulo-link {
+    color: var(--blue-link);
+}
+
+.pending {
+    color: var(--yellow-pending);
+}
+
+.denounce {
+    color: var(--red-denounce) !important;
+}
+
+.accepted {
+    color: var(--green-accept) !important;
+}
+
+.titulo-categoria {
+    font-size: 2.5rem;
+    font-weight: 500;
+}

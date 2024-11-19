@@ -1,0 +1,40 @@
+/* Declaração de variáveis */
+:root {
+    /* Cores */
+    $white: #f9f9f9;
+    --white: #ffffff;
+    --blue-logo: #064789;
+    --blue-logo-semi-transparent: #064789f1;
+    --blue-logo-transparent: rgba(6, 71, 137, 0.2);
+    --blue-link: #029692;
+    --blue-light: #CCE4FF; 
+    --blue-light2: #769FCD; 
+    --red-logo: #f32b38;
+    --red-logo-transparent: #feeaeb;
+    --red-denounce: #cc1408;
+    --black-logo: #191929;
+    --black-logo-transparent: #191929d1;
+    --black-footer: #171717;
+    --gray-background: #f6f6f6;
+    --gray-message: #eaeaea;
+    --gray-minor-font: #939393;
+    --gray-dark: #706e6e;
+    --gray-border: #cdcdcd;
+    --green-accept: #37cc12;
+    --green-accept-transparent: #e8f7ec;
+    --green-concluded: #17ae41;
+    --yellow-pending: #f6c915;
+    --yellow-logo: #FFC436;
+
+    /* Bordas */
+    --border-form: 0.05rem solid var(--gray-border);
+    --border-form-focus: 0.1rem solid var(--blue-logo);
+    --border-red: 0.15rem solid var(--red-logo);
+    --border-green: 0.15rem solid var(--green-accept);
+    --border-black: 0.15rem solid var(--black-logo);
+    --border-shadow: 0.2rem 0.2rem 1rem rgba(0, 0, 0, 0.15);
+
+    /* Variáveis adicionais para responsividade */
+    --mobile-padding: 16px; // Padding para dispositivos móveis
+    --mobile-font-size: 14px; // Tamanho de fonte para dispositivos móveis
+}

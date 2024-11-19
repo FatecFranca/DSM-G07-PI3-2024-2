@@ -1,0 +1,308 @@
+.pg_campanha {
+
+    /* #region  Configuração Geral*/
+    .container-campanha {
+        width: 120rem;
+        height: auto;
+
+        margin: auto;
+        margin-bottom: 20vh;
+
+        align-items: center;
+        justify-content: flex-start;
+
+        &>h1 {
+            font-size: 4rem;
+        }
+    }
+
+    .subcontainer-campanha {
+        margin-top: 6rem;
+
+        justify-content: center;
+        align-items: flex-start;
+
+        gap: 6rem;
+    }
+
+    /* #endregion */
+
+    /* #region Descrição*/
+    .container-descricao {
+        width: 64rem;
+        height: auto;
+
+        border-radius: 1rem;
+        border: var(--border-form);
+        box-shadow: var(--border-shadow);
+
+        // overflow: hidden;
+    }
+
+    .container-img {
+        width: 100%;
+        height: 38rem;
+
+        border-radius: 1rem 1rem 0 0;
+        overflow: hidden;
+    }
+
+    .container-img img {
+        width: 100%;
+        height: 100%;
+
+        object-fit: cover;
+        object-position: 50% 50%;
+    }
+
+    .descricao {
+        padding: 2.5rem;
+
+        p {
+            font-size: 2rem;
+            display: inline-block;
+
+            text-align: justify;
+            white-space: pre-line;
+            width: 100%;
+            overflow: hidden;
+        }
+
+        .btn {
+            transform: translateY(10rem);
+
+        }
+
+        .denunciar {
+            transform: translateY(8rem);
+
+            .row {
+                justify-content: flex-start;
+                gap: 1rem;
+
+                span {
+                    color: var(--black-logo);
+                    font-size: 2rem;
+                }
+            }
+
+            img {
+                width: 1.3rem;
+            }
+        }
+    }
+
+    /* #endregion */
+
+    /* #region Alimentos*/
+
+    .container-alimentos {
+        width: 40rem;
+        height: auto;
+
+        padding: 1.5rem;
+
+        border-radius: 1rem;
+        border: var(--border-form);
+        box-shadow: var(--border-shadow);
+
+        gap: 2rem;
+        top: 10rem;
+        position: sticky;
+        position: -webkit-sticky;
+    }
+
+    /* Header */
+
+    p.cidadeEstado {
+        max-width: 11.5rem;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+
+    .usuario .img-wrapper {
+        height: 5rem;
+        width: 5rem;
+
+        margin-right: 1rem;
+
+        border-radius: 0.2rem;
+        overflow: hidden;
+    }
+
+    .usuario h2,
+    h4 {
+        font-size: 1.5rem;
+    }
+
+    .header-campanha div {
+        display: flex;
+
+        justify-content: flex-start;
+
+        color: var(--gray-minor-font);
+    }
+
+    .container-campanha> div > .titulo {
+        text-align: center;
+    }
+
+    .header-campanha p {
+        font-size: 1.5rem;
+
+        color: var(--gray-minor-font);
+    }
+
+    .header-campanha div img {
+        width: 1.5rem;
+        margin-right: 0.3rem;
+    }
+
+    /* Main */
+
+    .main-alimentos {
+        gap: 2rem;
+    }
+
+    .main-alimentos::before {
+        content: "";
+        display: block;
+
+        width: 100%;
+
+        border: var(--border-form);
+    }
+
+    .main-alimentos .titulo {
+        font-size: 2.5rem;
+        margin: 0;
+    }
+
+    .filtro {
+        margin-bottom: 2rem;
+    }
+
+    .filtro .titulo {
+        font-size: 2rem;
+    }
+
+    .filtro select {
+        border: none;
+        padding: 0.5rem;
+
+        font-size: 2rem;
+    }
+
+    .arrecadado {
+        margin-right: 1.5rem;
+    }
+
+    .arrecadado * {
+        color: var(--blue-link);
+        font-weight: 500;
+    }
+
+    .alimento-container {
+        height: auto;
+        max-height: 40rem;
+        padding-right: 1rem;
+
+        justify-content: flex-start;
+        position: relative;
+
+        overflow-y: auto;
+        gap: 2rem;
+    }
+
+    .alimento {
+        gap: 0.5rem;
+
+        &::after {
+            content: "";
+            display: block;
+
+            width: 100%;
+
+            border: var(--border-form);
+            border-color: var(--gray-message);
+        }
+    }
+
+    .progresso-container {
+        margin: 0;
+
+        p {
+            font-size: 1.3rem;
+        }
+
+        .porcentagem {
+            * {
+                height: 1.3rem;
+            }
+        }
+    }
+
+    .alimento .sub.titulo {
+        font-size: 1.8rem;
+    }
+
+    .meta p {
+        font-weight: 500;
+        font-size: 1.4rem;
+    }
+
+    .main-alimentos .btn {
+        width: 100%;
+    }
+
+    /* Footer */
+
+    .footer-alimentos {
+        height: 10rem;
+
+        justify-content: center;
+        align-items: center;
+    }
+
+    .footer-alimentos::before {
+        content: "";
+        display: block;
+
+        width: 100%;
+        margin-bottom: 2rem;
+
+        border: var(--border-form);
+    }
+
+    .footer-alimentos .sub {
+        font-size: 2rem;
+    }
+
+    .redes-sociais {
+        gap: 3rem;
+    }
+
+    /* #endregion */
+}
+
+.lyt_denuncia.campanha {
+    position: fixed;
+    z-index: 20;
+    margin: auto;
+    width: 100vw;
+    background-color: var(--black-logo-transparent);
+
+    visibility: hidden;
+    opacity: 0;
+    transition: all 0.1s ease-in-out !important;
+
+    padding-bottom: 0;
+
+    &.visible {
+        visibility: visible;
+        opacity: 1;
+
+        transition: all 0.1s ease-in-out;
+    }
+}

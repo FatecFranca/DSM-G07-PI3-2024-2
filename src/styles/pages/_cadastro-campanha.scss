@@ -1,0 +1,240 @@
+.pg_cadastro-campanha {
+    .qtdAl {
+        // width: 95% !important;
+        padding: 0 1.5rem;
+
+        display: flex;
+        flex-direction: row !important;
+        align-items: center;
+
+        background-color: var(--white);
+        border: var(--border-form);
+        border-radius: 1rem;
+
+        height: 4rem;
+
+        margin: 0.5rem 0 2.5rem 0;
+
+        .input-form {
+            &::-webkit-outer-spin-button,
+            &::-webkit-inner-spin-button {
+                -webkit-appearance: none;
+                margin: 0;
+            }
+
+            &[type="number"] {
+                -moz-appearance: textfield;
+            }
+
+            height: 100%;
+            width: 100%;
+
+            margin: 0;
+            border: none;
+
+            font-size: 2rem;
+        }
+
+        .sub.titulo {
+            margin: auto !important;
+
+            font-weight: 500 !important;
+            font-size: 1.8rem;
+            color: var(--gray-minor-font);
+        }
+    }
+
+    .form-container {
+        width: 100%;
+        max-width: 72rem;
+        // border: none;
+
+        .titulo {
+            font-size: 2.5rem;
+            font-weight: 500;
+            text-align: center;
+        }
+
+        .sub.titulo {
+            margin: 2rem 0 1rem 0;
+
+            font-size: 1.8rem;
+            font-weight: 600;
+            align-self: flex-start;
+        }
+
+        label {
+            font-size: 1.8rem;
+            font-weight: 500;
+
+            margin-top: 1rem;
+        }
+
+        .input-form {
+            &[name="sg_estado_campanha"] {
+                min-width: 18rem;
+            }
+
+            &[name="nm_cidade_campanha"] {
+                min-width: 25rem;
+            }
+        }
+
+        .dados-iniciais {
+            div:first-child {
+                width: 100%;
+            }
+            div:last-child {
+                width: 40rem;
+            }
+        }
+
+        .alimentos-container {
+            margin-bottom: 3rem;
+
+            .alimentos-wrapper {
+                max-height: 50rem;
+                overflow: hidden;
+                overflow-y: auto;
+                justify-content: flex-start;
+                padding-right: 2rem;
+
+                .alimento.row {
+                    justify-content: space-between;
+
+                    .input-form {
+                        width: 100%;
+                    }
+
+                    div {
+                        width: 100%;
+                    }
+
+                    .tipo-input {
+                        width: 140%;
+                    }
+
+                    .alimento-input {
+                        width: 120%;
+                    }
+
+                    .btn.red {
+                        min-height: 4rem;
+                        min-width: 4rem;
+                        padding: 0 1rem;
+                        margin: 0;
+                        margin-top: 1.5rem;
+
+                        justify-self: center;
+                        align-self: center;
+
+                        img {
+                            width: 2.5rem;
+                        }
+                    }
+                }
+            }
+
+            .btn.adicionar {
+                min-height: 5rem;
+                width: max-content;
+                margin: 2rem auto 0 0;
+            }
+        }
+
+        .texts {
+            .input-form {
+                padding: 2rem;
+                height: 20rem;
+            }
+
+            .imageCampanha {
+                // background-image: url(/assets/campanhas/default.png);
+                background-repeat: no-repeat;
+                background-size: cover;
+                background-position: center center;
+            }
+
+            .img-container .img-wrapper {
+                width: 12rem;
+                height: 12rem;
+
+                border-radius: 0.8rem;
+                justify-content: space-between;
+
+                cursor: pointer;
+            }
+
+            .form-login .continuar {
+                align-self: flex-start;
+                width: max-content;
+            }
+        }
+    }
+
+    &.editar {
+        .form-container {
+            margin: auto;
+            
+            label {
+                margin: 0;
+            }
+            
+            .titulo {
+                margin-bottom: 1rem;
+            }
+
+            .input-form {
+                margin: 1rem 0 2rem 0;
+            }
+
+            .dados-iniciais {
+                div:last-child {
+                    width: 100%;
+                }
+            }
+
+            .texts {
+                .editDesc {
+                    min-height: 15rem;
+                    height: 15rem;
+                }
+
+                .imagePerfil {
+                    width: 100%;
+                    height: 20rem;
+
+                    background-color: var(--black-logo-transparent);
+                    background-position: center center;
+                    background-size: cover;
+                    background-blend-mode: overlay;
+
+                    margin-top: 1rem;
+
+                    img {
+                        object-fit: contain;
+                        object-position: center center;
+                    }
+
+                    .changeImg {
+                        width: 100%;
+                        max-width: 64rem;
+
+                        height: 20rem;
+                        margin-bottom: 1rem;
+
+                        .editImg {
+                            height: 100%;
+                            transform: translateY(1rem);
+                        }
+                    }
+                }
+            }
+
+            .form-login .btn {
+                margin-top: 3rem;
+                min-height: 4rem;
+            }
+        }
+    }
+}

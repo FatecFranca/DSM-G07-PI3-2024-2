@@ -1,0 +1,41 @@
+// main.scss
+
+// Imports
+@import "abstracts/variables";
+
+// Base files
+@import "base/reset";
+@import "base/typography";
+@import "base/global";
+
+// Component files
+@import "components/buttons";
+
+// Layout files
+@import "layout/contribuir";
+@import "layout/forms";
+@import "layout/header";
+@import "layout/footer";
+@import "layout/usuario-campanha";
+
+// Page files
+@import "pages/index";
+@import "pages/cadastro-campanha";
+@import "pages/descobrir";
+@import "pages/campanha";
+
+// Media query para responsividade em dispositivos móveis
+@media only screen and (max-width: 375px) {
+    // Estilos globais para responsividade
+    body {
+        font-size: 14px; // Reduzindo o tamanho de fonte
+        padding: 0 16px; // Ajustando o padding lateral para evitar overflow
+    }
+    
+    .container {
+        width: 100%; // Garantir que o container ocupe 100% da largura da tela
+        padding: 0 8px; // Padding lateral adicional para espaçamento em dispositivos móveis
+    }
+
+    // Adicione aqui ajustes globais para outros elementos, se necessário.
+}

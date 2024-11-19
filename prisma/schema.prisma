@@ -25,7 +25,7 @@ model campanha {
   sg_estado_campanha        String
   ds_acao_campanha          String
   cd_imagem_campanha        String       @default("default.png")
-  fg_campanha_ativa         Boolean
+  fg_campanha_ativa         Boolean      
 }
 
 model alimento_campanha {
@@ -38,10 +38,11 @@ model alimento_campanha {
 model usuario {
 
   id                        String     @id @default(auto()) @map("_id") @db.ObjectId
+  tipo_usuario              String?
   nm_usuario                String
   ch_cpf_usuario            String?    @unique
   ch_cnpj_usuario           String?    @unique
-  dt_nascimento_usuario     DateTime
+  dt_nascimento_usuario     DateTime?
   nr_celular_usuario        String
   sg_estado_usuario         String
   nm_cidade_usuario         String

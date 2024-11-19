@@ -1,0 +1,285 @@
+.lyt_denuncia {
+    min-height: calc(100vh - 8rem);
+    justify-content: center;
+    padding-bottom: 4rem;
+    transition: all 0.2s ease-in-out;
+
+    &.pg_denuncia {
+        .form-container {
+            width: 100%;
+            max-width: 80rem;
+        }
+
+        .sub.titulo {
+            margin-bottom: 1rem !important;
+        }
+
+        .row.radio {
+            justify-content: flex-start;
+            align-items: center;
+            gap: 1rem;
+            margin-bottom: 2rem;
+
+            label,
+            input {
+                margin: 0;
+                cursor: pointer;
+
+                & {
+                    font-size: 2rem;
+                }
+            }
+        }
+
+        fieldset {
+            display: none;
+
+            &:first-child {
+                display: initial;
+            }
+        }
+
+        .btnsForm.row {
+            justify-content: flex-end;
+            gap: 1rem;
+
+            .btn {
+                min-width: 16rem;
+
+                &.previous {
+                    background-color: var(--white);
+                    color: var(--blue-logo);
+                    display: none;
+                    visibility: hidden;
+
+                    &.visible {
+                        display: inline-flex;
+                        visibility: visible;
+                    }
+                }
+            }
+        }
+
+        .formFooter {
+            align-items: flex-end !important;
+
+            h1 {
+                font-size: 1.8rem;
+                margin-bottom: 0.5rem;
+            }
+        }
+    }
+
+    .form-container {
+        width: 100%;
+        max-width: 60rem;
+        height: auto;
+        max-height: max-content;
+        margin: 10rem auto;
+        padding: 4rem;
+        border-radius: 1rem;
+        border: var(--border-form);
+        background-color: var(--white);
+
+        .closeWrapper {
+            cursor: pointer;
+            margin-left: auto;
+            transform: translate(1rem, -1.5rem);
+            width: 2rem;
+            height: 2rem;
+            position: relative;
+
+            .closeModal {
+                width: 1.5rem;
+                height: 1.5rem;
+            }
+        }
+
+        .sub.titulo {
+            font-size: 2.5rem;
+            align-self: center;
+            margin-bottom: 3.5rem;
+            font-weight: 500;
+        }
+    }
+
+    .form-login {
+        label {
+            font-size: 2rem;
+            font-weight: 500;
+            text-align: start;
+        }
+
+        select {
+            font-family: "Red Hat Display", sans-serif;
+            font-size: 2rem;
+            font-weight: 500;
+        }
+
+        option {
+            font-size: 1.7rem;
+            font-weight: 500;
+        }
+
+        .input-form {
+            height: 7rem;
+        }
+
+        .row {
+            align-items: flex-start;
+            justify-content: space-between;
+        }
+
+        .btn {
+            margin-top: 3rem;
+            align-self: center;
+        }
+
+        .alimento {
+            width: 100%;
+
+            .desc {
+                padding-right: 11rem;
+
+                label {
+                    color: var(--gray-minor-font);
+                }
+            }
+
+            label:first-child {
+                width: 18rem;
+            }
+
+            .qtdAlimentos {
+                width: 100%;
+                max-height: 20rem;
+
+                overflow: hidden;
+                overflow-y: auto;
+
+                margin: 0;
+                padding-right: 2rem;
+
+                .sub.titulo {
+                    font-size: 2rem;
+                    align-self: center;
+                    margin-bottom: 0;
+                    font-weight: bold;
+                }
+
+                .alimento-campanha {
+                    .input-form {
+                        height: 4rem;
+                        width: 100%;
+                        margin-top: 2rem;
+                        padding: 0;
+                        display: flex;
+                        flex-direction: row;
+                        align-items: center;
+
+                        font-size: 2.2rem;
+                        font-weight: 500;
+
+                        border: none;
+                        background-color: var(--white);
+                        border-radius: 1rem;
+
+                        cursor: default;
+                    }
+                }
+
+                .alimento-quantidade {
+                    .qtdAl {
+                        min-width: 18rem;
+                        width: max-content;
+                        height: 4rem;
+                        padding: 0 1.5rem;
+                        margin-top: 2rem;
+
+                        display: flex;
+                        flex-direction: row;
+                        align-items: center;
+
+                        background-color: var(--white);
+                        border: var(--border-form);
+                        border-radius: 1rem;
+
+                        .input-form {
+                            height: 100%;
+                            width: 10rem;
+                            margin: 0;
+                            border: none;
+
+                            font-size: 2rem;
+                        }
+
+                        .sub.titulo {
+                            margin-left: 2rem;
+                            font-weight: 500;
+                            font-size: 1.8rem;
+                            color: var(--gray-minor-font);
+                        }
+                    }
+                }
+            }
+        }
+
+        .comentario {
+            label {
+                font-size: 2.4rem;
+                margin: 2.5rem 0 2rem 0;
+            }
+            textarea {
+                font-family: "Red Hat Display", sans-serif;
+                font-size: 1.8rem;
+                font-weight: 500;
+
+                min-height: 14rem;
+                resize: none;
+            }
+        }
+    }
+
+    // Responsividade
+    @media (max-width: 768px) {
+        padding: 1rem; // Adiciona espaçamento nas laterais
+
+        .form-container {
+            width: 90%; // Ajusta a largura da forma para 90%
+            margin: 5rem auto; // Reduz o espaçamento
+
+            .sub.titulo {
+                font-size: 2rem; // Ajusta o tamanho da fonte
+            }
+        }
+
+        .form-login {
+            label {
+                font-size: 1.5rem; // Ajusta o tamanho do texto do rótulo
+            }
+
+            .input-form {
+                height: 5rem; // Reduz a altura do campo
+            }
+
+            .row {
+                flex-direction: column; // Alinha os itens verticalmente
+            }
+
+            .btn {
+                min-width: 100%; // Aumenta a largura do botão
+                font-size: 1.5rem; // Ajusta o tamanho da fonte do botão
+            }
+        }
+
+        .alimento {
+            .desc {
+                padding-right: 0; // Remove o espaçamento lateral
+            }
+
+            label:first-child {
+                width: auto; // Ajusta a largura do rótulo
+            }
+        }
+    }
+}

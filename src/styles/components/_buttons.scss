@@ -1,0 +1,90 @@
+/* Configuração geral */
+.btn {
+    width: max-content;
+    height: max-content;
+    min-width: 20rem;
+    min-height: 5rem;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+    padding: 0.5rem 2rem;
+
+    border-radius: 1rem;
+    border: none;
+    cursor: pointer;
+
+    transition: filter 0.5s;
+
+    font-family: "Red Hat Display", sans-serif;
+    font-size: 2rem;
+    font-weight: 400;
+}
+
+.btn:hover {
+    filter: brightness(0.9);
+}
+
+.btn.red {
+    background-color: var(--red-logo);
+    color: var(--white);
+}
+
+.btn.yellow {
+    background-color: var(--yellow-logo);
+    color: var(--white);
+}
+
+.btn.red-denounce {
+    background-color: var(--red-denounce);
+    color: var(--white);
+}
+
+.btn.ghost-red {
+    background-color: var(--white);
+    color: var(--red-denounce);
+    border: var(--border-red);
+}
+
+.btn.ghost-gray {
+    background-color: var(--white);
+    color: var(--black-logo);
+    border: var(--border-black);
+}
+
+.btn.green {
+    background-color: var(--green-accept);
+    color: var(--white);
+    font-weight: bold;
+}
+
+.btn.blue {
+    background-color: var(--blue-logo);
+    color: var(--white);
+}
+
+.btn.blue-light {
+    background-color: var(--blue-light);
+    color: var(--white);
+}
+
+.btn.blue-light2 {
+    background-color: var(--blue-light2);
+    color: var(--white);
+}
+
+.btn.green-concluded {
+    background-color: var(--green-concluded);
+    color: var(--white);
+}
+
+/* Responsividade */
+@media (max-width: 768px) {
+    .btn {
+        min-width: 100%; // Ajusta a largura do botão para 100%
+        font-size: 1.5rem; // Ajusta o tamanho da fonte
+        padding: 0.5rem 1rem; // Reduz o espaçamento interno
+    }
+}

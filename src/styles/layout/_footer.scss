@@ -1,0 +1,63 @@
+.footer-bar {
+    width: 100%;
+    height: 20rem;
+    padding: 2rem 4rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+    background-color: var(--black-footer);
+    color: var(--white);
+
+    .logo-footer {
+        width: 10rem;
+        margin: 2rem 0;
+        align-self: center;
+    }
+
+    .menu-footer {
+        margin: 2rem;
+        height: auto;
+        font-size: 0.8rem;
+
+        .list-item {
+            color: var(--white);
+            font-size: 2rem;
+            margin: 0.5rem 0;
+        }
+    }
+
+    .redes-sociais {
+        justify-content: flex-start;
+        gap: 2rem;
+        
+        .icone-midias {
+            width: 3rem;
+            height: 3rem;
+        }
+    }
+
+    .subtitulo-footer {
+        font-size: 2.5rem;
+        font-weight: 600;
+    }
+
+    // Responsividade
+    @media (max-width: 768px) {
+        height: auto; // Ajusta a altura para caber no conteúdo
+        padding: 1rem; // Reduz o espaçamento
+
+        flex-direction: column; // Alinha os elementos verticalmente
+
+        .menu-footer {
+            font-size: 1.5rem; // Reduz o tamanho da fonte
+            .list-item {
+                font-size: 1.5rem; // Ajusta ainda mais o tamanho da fonte
+            }
+        }
+
+        .subtitulo-footer {
+            font-size: 2rem; // Diminuindo o tamanho do subtítulo
+        }
+    }
+}
