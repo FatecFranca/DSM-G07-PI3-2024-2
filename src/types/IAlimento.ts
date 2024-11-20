@@ -1,6 +1,6 @@
 export interface IAlimento {
     nm_alimento: string;
-    cd_alimento: number;
+    id: string;
     sg_medida_alimento: string;
 }
 
@@ -13,5 +13,6 @@ export interface IAlimentoLista {
 export interface IAlimentoDoado extends IAlimento {
     qt_alimento_meta: number,
     qt_alimento_doado: number,
+    alimento_id: string,
 }
 

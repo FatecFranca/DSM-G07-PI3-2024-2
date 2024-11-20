@@ -1,11 +1,11 @@
 import { IAlimentoDoado } from "./IAlimento";
 
 export interface ICampanha {
-    cd_campanha: number;
-    cd_usuario_campanha: number;
+    id: string;
+    usuario_id: string;
     nm_titulo_campanha: string;
-    dt_encerramento_campanha: string;
-    ts_criacao_campanha: string;
+    dt_encerramento_campanha: Date;
+    ts_criacao_campanha: Date;
     nm_cidade_campanha: string;
     sg_estado_campanha: string;
     ds_acao_campanha: string;
@@ -13,11 +13,11 @@ export interface ICampanha {
     qt_total_campanha: number;
     cd_imagem_campanha: string;
     qt_doacoes_campanha: number;
-    minutos_restantes: number,
-    horas_restantes: number,
-    dias_restantes: number,
-    meses_restantes: number,
-    anos_restantes: number,
+    minutos_restantes: number;
+    horas_restantes: number;
+    dias_restantes: number;
+    meses_restantes: number;
+    anos_restantes: number;
 }
 
 export interface ICampanhaAlimento extends ICampanha {
@@ -27,8 +27,8 @@ export interface ICampanhaAlimento extends ICampanha {
 }
 
 export interface ICampanhaNova {
-    cd_campanha: number;
-    cd_usuario_campanha: number;
+    id: string;
+    usuario_id: string;
     nm_titulo_campanha: string;
     dt_encerramento_campanha: string;
     nm_cidade_campanha: string;
