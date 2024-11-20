@@ -1,0 +1,326 @@
+[
+    {
+        "_id": "1",
+        "nm_titulo_campanha": "Campanha de combate à fome",
+        "alimentos": [
+            {
+                "nm_alimento": "Arroz",
+                "qt_doada_alimento": 2,
+                "qt_alimento": 10,
+                "sg_medida_alimento": "KG"
+            },
+            {
+                "nm_alimento": "Leite",
+                "qt_doada_alimento": 2,
+                "qt_alimento": 8,
+                "sg_medida_alimento": "L"
+            },
+            {
+                "nm_alimento": "Feijão",
+                "qt_doada_alimento": 5,
+                "qt_alimento": 20,
+                "sg_medida_alimento": "KG"
+            }
+        ],
+        "cd_imagem_campanha": "1",
+        "qt_doacoes_campanha": 3,
+        "qt_total_campanha": 10,
+        "ds_acao_campanha": "A fome é um problema grave que afeta milhões de pessoas no Brasil e no mundo. Segundo a Organização das Nações Unidas para a Alimentação e a Agricultura (FAO), cerca de 10,3 milhões de brasileiros vivem em situação de insegurança alimentar grave, ou seja, passam fome. Além disso, a pandemia de Covid-19 agravou ainda mais essa situação, aumentando o desemprego, a pobreza e a vulnerabilidade social.\n\nDiante desse cenário, um grupo de voluntários decidiu criar uma campanha de combate à fome, chamada “Alimente uma Vida”. O objetivo da campanha é arrecadar alimentos não perecíveis, como arroz, feijão, macarrão, óleo, leite em pó, entre outros, e distribuí-los para famílias carentes em diversas regiões do país. A campanha conta com o apoio de diversas entidades, como igrejas, escolas, empresas, ONGs e instituições públicas, que disponibilizam pontos de coleta e de entrega dos alimentos.\n\nA campanha “Alimente uma Vida” é uma iniciativa solidária e cidadã, que visa contribuir para a redução da fome e da desigualdade no Brasil. Ao participar da campanha, você estará ajudando a garantir o direito humano à alimentação adequada, que é essencial para a saúde, a dignidade e o desenvolvimento das pessoas. Além disso, você estará demonstrando sua generosidade, sua empatia e seu compromisso social com uma causa nobre e urgente.\n\nPara saber mais sobre a campanha, você pode visitar o site oficial [aqui], onde você encontrará informações sobre como doar, como se tornar um voluntário, como divulgar a campanha nas redes sociais, entre outras formas de colaborar. Você também pode entrar em contato com os organizadores da campanha pelo e-mail alimenteumavida@gmail.com ou pelo telefone (11) 99999-9999. Eles estarão à disposição para tirar suas dúvidas, receber suas sugestões e agradecer sua participação.\n\nA campanha “Alimente uma Vida” é uma oportunidade de você fazer a diferença no mundo, transformando a realidade de milhares de pessoas que sofrem com a fome. Ao doar alimentos ou dinheiro, você estará alimentando não apenas o corpo, mas também a alma e a esperança de quem recebe. Você estará mostrando que se importa, que se solidariza e que se mobiliza por uma causa maior. Você estará fazendo parte de uma rede de amor e de cuidado, que se estende por todo o país.\n\nNão deixe de participar da campanha “Alimente uma Vida”. Sua ajuda é muito importante e valiosa. Lembre-se de que, juntos, podemos fazer muito mais. Juntos, podemos alimentar uma vida. Juntos, podemos mudar o mundo.",
+        "qt_arrecadada": 2,
+        "cd_foto_usuario": "1",
+        "nm_usuario": "João",
+        "nm_cidade_usuario": "Franca",
+        "sg_estado_usuario": "SP",
+        "qt_tempo_restante": "3 dias",
+        "nm_cidade_campanha": "Franca",
+        "sg_estado_campanha": "SP"
+    },
+    {
+        "_id": "2",
+        "nm_titulo_campanha": "Campanha de combate à fome",
+        "alimentos": [
+            {
+                "nm_alimento": "Arroz",
+                "qt_doada_alimento": 2,
+                "qt_alimento": 10,
+                "sg_medida_alimento": "KG"
+            },
+            {
+                "nm_alimento": "Leite",
+                "qt_doada_alimento": 2,
+                "qt_alimento": 8,
+                "sg_medida_alimento": "L"
+            },
+            {
+                "nm_alimento": "Feijão",
+                "qt_doada_alimento": 5,
+                "qt_alimento": 20,
+                "sg_medida_alimento": "KG"
+            }
+        ],
+        "cd_imagem_campanha": "2",
+        "qt_doacoes_campanha": 10,
+        "qt_total_campanha": 10,
+        "ds_acao_campanha": "A fome é um problema grave que afeta milhões de pessoas no Brasil e no mundo. Segundo a Organização das Nações Unidas para a Alimentação e a Agricultura (FAO), cerca de 10,3 milhões de brasileiros vivem em situação de insegurança alimentar grave, ou seja, passam fome. Além disso, a pandemia de Covid-19 agravou ainda mais essa situação, aumentando o desemprego, a pobreza e a vulnerabilidade social.\n\nDiante desse cenário, um grupo de voluntários decidiu criar uma campanha de combate à fome, chamada “Alimente uma Vida”. O objetivo da campanha é arrecadar alimentos não perecíveis, como arroz, feijão, macarrão, óleo, leite em pó, entre outros, e distribuí-los para famílias carentes em diversas regiões do país. A campanha conta com o apoio de diversas entidades, como igrejas, escolas, empresas, ONGs e instituições públicas, que disponibilizam pontos de coleta e de entrega dos alimentos.\n\nA campanha “Alimente uma Vida” é uma iniciativa solidária e cidadã, que visa contribuir para a redução da fome e da desigualdade no Brasil. Ao participar da campanha, você estará ajudando a garantir o direito humano à alimentação adequada, que é essencial para a saúde, a dignidade e o desenvolvimento das pessoas. Além disso, você estará demonstrando sua generosidade, sua empatia e seu compromisso social com uma causa nobre e urgente.\n\nPara saber mais sobre a campanha, você pode visitar o site oficial [aqui], onde você encontrará informações sobre como doar, como se tornar um voluntário, como divulgar a campanha nas redes sociais, entre outras formas de colaborar. Você também pode entrar em contato com os organizadores da campanha pelo e-mail alimenteumavida@gmail.com ou pelo telefone (11) 99999-9999. Eles estarão à disposição para tirar suas dúvidas, receber suas sugestões e agradecer sua participação.\n\nA campanha “Alimente uma Vida” é uma oportunidade de você fazer a diferença no mundo, transformando a realidade de milhares de pessoas que sofrem com a fome. Ao doar alimentos ou dinheiro, você estará alimentando não apenas o corpo, mas também a alma e a esperança de quem recebe. Você estará mostrando que se importa, que se solidariza e que se mobiliza por uma causa maior. Você estará fazendo parte de uma rede de amor e de cuidado, que se estende por todo o país.\n\nNão deixe de participar da campanha “Alimente uma Vida”. Sua ajuda é muito importante e valiosa. Lembre-se de que, juntos, podemos fazer muito mais. Juntos, podemos alimentar uma vida. Juntos, podemos mudar o mundo.",
+        "qt_arrecadada": 2,
+        "cd_foto_usuario": "1",
+        "nm_usuario": "João",
+        "nm_cidade_usuario": "Franca",
+        "sg_estado_usuario": "SP",
+        "qt_tempo_restante": "3 dias",
+        "nm_cidade_campanha": "Franca",
+        "sg_estado_campanha": "SP"
+    },
+    {
+        "_id": "3",
+        "nm_titulo_campanha": "Campanha de combate à fome",
+        "alimentos": [
+            {
+                "nm_alimento": "Arroz",
+                "qt_doada_alimento": 2,
+                "qt_alimento": 10,
+                "sg_medida_alimento": "KG"
+            },
+            {
+                "nm_alimento": "Leite",
+                "qt_doada_alimento": 2,
+                "qt_alimento": 8,
+                "sg_medida_alimento": "L"
+            },
+            {
+                "nm_alimento": "Feijão",
+                "qt_doada_alimento": 5,
+                "qt_alimento": 20,
+                "sg_medida_alimento": "KG"
+            }
+        ],
+        "cd_imagem_campanha": "3",
+        "qt_doacoes_campanha": 2,
+        "qt_total_campanha": 10,
+        "ds_acao_campanha": "A fome é um problema grave que afeta milhões de pessoas no Brasil e no mundo. Segundo a Organização das Nações Unidas para a Alimentação e a Agricultura (FAO), cerca de 10,3 milhões de brasileiros vivem em situação de insegurança alimentar grave, ou seja, passam fome. Além disso, a pandemia de Covid-19 agravou ainda mais essa situação, aumentando o desemprego, a pobreza e a vulnerabilidade social.\n\nDiante desse cenário, um grupo de voluntários decidiu criar uma campanha de combate à fome, chamada “Alimente uma Vida”. O objetivo da campanha é arrecadar alimentos não perecíveis, como arroz, feijão, macarrão, óleo, leite em pó, entre outros, e distribuí-los para famílias carentes em diversas regiões do país. A campanha conta com o apoio de diversas entidades, como igrejas, escolas, empresas, ONGs e instituições públicas, que disponibilizam pontos de coleta e de entrega dos alimentos.\n\nA campanha “Alimente uma Vida” é uma iniciativa solidária e cidadã, que visa contribuir para a redução da fome e da desigualdade no Brasil. Ao participar da campanha, você estará ajudando a garantir o direito humano à alimentação adequada, que é essencial para a saúde, a dignidade e o desenvolvimento das pessoas. Além disso, você estará demonstrando sua generosidade, sua empatia e seu compromisso social com uma causa nobre e urgente.\n\nPara saber mais sobre a campanha, você pode visitar o site oficial [aqui], onde você encontrará informações sobre como doar, como se tornar um voluntário, como divulgar a campanha nas redes sociais, entre outras formas de colaborar. Você também pode entrar em contato com os organizadores da campanha pelo e-mail alimenteumavida@gmail.com ou pelo telefone (11) 99999-9999. Eles estarão à disposição para tirar suas dúvidas, receber suas sugestões e agradecer sua participação.\n\nA campanha “Alimente uma Vida” é uma oportunidade de você fazer a diferença no mundo, transformando a realidade de milhares de pessoas que sofrem com a fome. Ao doar alimentos ou dinheiro, você estará alimentando não apenas o corpo, mas também a alma e a esperança de quem recebe. Você estará mostrando que se importa, que se solidariza e que se mobiliza por uma causa maior. Você estará fazendo parte de uma rede de amor e de cuidado, que se estende por todo o país.\n\nNão deixe de participar da campanha “Alimente uma Vida”. Sua ajuda é muito importante e valiosa. Lembre-se de que, juntos, podemos fazer muito mais. Juntos, podemos alimentar uma vida. Juntos, podemos mudar o mundo.",
+        "qt_arrecadada": 2,
+        "cd_foto_usuario": "1",
+        "nm_usuario": "João",
+        "nm_cidade_usuario": "Franca",
+        "sg_estado_usuario": "SP",
+        "qt_tempo_restante": "3 dias",
+        "nm_cidade_campanha": "Franca",
+        "sg_estado_campanha": "SP"
+    },
+    {
+        "_id": "4",
+        "nm_titulo_campanha": "Campanha de combate à fome",
+        "alimentos": [
+            {
+                "nm_alimento": "Arroz",
+                "qt_doada_alimento": 2,
+                "qt_alimento": 10,
+                "sg_medida_alimento": "KG"
+            },
+            {
+                "nm_alimento": "Leite",
+                "qt_doada_alimento": 2,
+                "qt_alimento": 8,
+                "sg_medida_alimento": "L"
+            },
+            {
+                "nm_alimento": "Feijão",
+                "qt_doada_alimento": 5,
+                "qt_alimento": 20,
+                "sg_medida_alimento": "KG"
+            }
+        ],
+        "cd_imagem_campanha": "4",
+        "qt_doacoes_campanha": 7,
+        "qt_total_campanha": 10,
+        "ds_acao_campanha": "A fome é um problema grave que afeta milhões de pessoas no Brasil e no mundo. Segundo a Organização das Nações Unidas para a Alimentação e a Agricultura (FAO), cerca de 10,3 milhões de brasileiros vivem em situação de insegurança alimentar grave, ou seja, passam fome. Além disso, a pandemia de Covid-19 agravou ainda mais essa situação, aumentando o desemprego, a pobreza e a vulnerabilidade social.\n\nDiante desse cenário, um grupo de voluntários decidiu criar uma campanha de combate à fome, chamada “Alimente uma Vida”. O objetivo da campanha é arrecadar alimentos não perecíveis, como arroz, feijão, macarrão, óleo, leite em pó, entre outros, e distribuí-los para famílias carentes em diversas regiões do país. A campanha conta com o apoio de diversas entidades, como igrejas, escolas, empresas, ONGs e instituições públicas, que disponibilizam pontos de coleta e de entrega dos alimentos.\n\nA campanha “Alimente uma Vida” é uma iniciativa solidária e cidadã, que visa contribuir para a redução da fome e da desigualdade no Brasil. Ao participar da campanha, você estará ajudando a garantir o direito humano à alimentação adequada, que é essencial para a saúde, a dignidade e o desenvolvimento das pessoas. Além disso, você estará demonstrando sua generosidade, sua empatia e seu compromisso social com uma causa nobre e urgente.\n\nPara saber mais sobre a campanha, você pode visitar o site oficial [aqui], onde você encontrará informações sobre como doar, como se tornar um voluntário, como divulgar a campanha nas redes sociais, entre outras formas de colaborar. Você também pode entrar em contato com os organizadores da campanha pelo e-mail alimenteumavida@gmail.com ou pelo telefone (11) 99999-9999. Eles estarão à disposição para tirar suas dúvidas, receber suas sugestões e agradecer sua participação.\n\nA campanha “Alimente uma Vida” é uma oportunidade de você fazer a diferença no mundo, transformando a realidade de milhares de pessoas que sofrem com a fome. Ao doar alimentos ou dinheiro, você estará alimentando não apenas o corpo, mas também a alma e a esperança de quem recebe. Você estará mostrando que se importa, que se solidariza e que se mobiliza por uma causa maior. Você estará fazendo parte de uma rede de amor e de cuidado, que se estende por todo o país.\n\nNão deixe de participar da campanha “Alimente uma Vida”. Sua ajuda é muito importante e valiosa. Lembre-se de que, juntos, podemos fazer muito mais. Juntos, podemos alimentar uma vida. Juntos, podemos mudar o mundo.",
+        "qt_arrecadada": 2,
+        "cd_foto_usuario": "1",
+        "nm_usuario": "João",
+        "nm_cidade_usuario": "Franca",
+        "sg_estado_usuario": "SP",
+        "qt_tempo_restante": "3 dias",
+        "nm_cidade_campanha": "Franca",
+        "sg_estado_campanha": "SP"
+    },
+    {
+        "_id": "5",
+        "nm_titulo_campanha": "Campanha de combate à fome",
+        "alimentos": [
+            {
+                "nm_alimento": "Arroz",
+                "qt_doada_alimento": 2,
+                "qt_alimento": 10,
+                "sg_medida_alimento": "KG"
+            },
+            {
+                "nm_alimento": "Leite",
+                "qt_doada_alimento": 2,
+                "qt_alimento": 8,
+                "sg_medida_alimento": "L"
+            },
+            {
+                "nm_alimento": "Feijão",
+                "qt_doada_alimento": 5,
+                "qt_alimento": 20,
+                "sg_medida_alimento": "KG"
+            }
+        ],
+        "cd_imagem_campanha": "5",
+        "qt_doacoes_campanha": 2,
+        "qt_total_campanha": 10,
+        "ds_acao_campanha": "A fome é um problema grave que afeta milhões de pessoas no Brasil e no mundo. Segundo a Organização das Nações Unidas para a Alimentação e a Agricultura (FAO), cerca de 10,3 milhões de brasileiros vivem em situação de insegurança alimentar grave, ou seja, passam fome. Além disso, a pandemia de Covid-19 agravou ainda mais essa situação, aumentando o desemprego, a pobreza e a vulnerabilidade social.\n\nDiante desse cenário, um grupo de voluntários decidiu criar uma campanha de combate à fome, chamada “Alimente uma Vida”. O objetivo da campanha é arrecadar alimentos não perecíveis, como arroz, feijão, macarrão, óleo, leite em pó, entre outros, e distribuí-los para famílias carentes em diversas regiões do país. A campanha conta com o apoio de diversas entidades, como igrejas, escolas, empresas, ONGs e instituições públicas, que disponibilizam pontos de coleta e de entrega dos alimentos.\n\nA campanha “Alimente uma Vida” é uma iniciativa solidária e cidadã, que visa contribuir para a redução da fome e da desigualdade no Brasil. Ao participar da campanha, você estará ajudando a garantir o direito humano à alimentação adequada, que é essencial para a saúde, a dignidade e o desenvolvimento das pessoas. Além disso, você estará demonstrando sua generosidade, sua empatia e seu compromisso social com uma causa nobre e urgente.\n\nPara saber mais sobre a campanha, você pode visitar o site oficial [aqui], onde você encontrará informações sobre como doar, como se tornar um voluntário, como divulgar a campanha nas redes sociais, entre outras formas de colaborar. Você também pode entrar em contato com os organizadores da campanha pelo e-mail alimenteumavida@gmail.com ou pelo telefone (11) 99999-9999. Eles estarão à disposição para tirar suas dúvidas, receber suas sugestões e agradecer sua participação.\n\nA campanha “Alimente uma Vida” é uma oportunidade de você fazer a diferença no mundo, transformando a realidade de milhares de pessoas que sofrem com a fome. Ao doar alimentos ou dinheiro, você estará alimentando não apenas o corpo, mas também a alma e a esperança de quem recebe. Você estará mostrando que se importa, que se solidariza e que se mobiliza por uma causa maior. Você estará fazendo parte de uma rede de amor e de cuidado, que se estende por todo o país.\n\nNão deixe de participar da campanha “Alimente uma Vida”. Sua ajuda é muito importante e valiosa. Lembre-se de que, juntos, podemos fazer muito mais. Juntos, podemos alimentar uma vida. Juntos, podemos mudar o mundo.",
+        "qt_arrecadada": 2,
+        "cd_foto_usuario": "1",
+        "nm_usuario": "João",
+        "nm_cidade_usuario": "Franca",
+        "sg_estado_usuario": "SP",
+        "qt_tempo_restante": "3 dias",
+        "nm_cidade_campanha": "Franca",
+        "sg_estado_campanha": "SP"
+    },
+    {
+        "_id": "6",
+        "nm_titulo_campanha": "Campanha de combate à fome",
+        "alimentos": [
+            {
+                "nm_alimento": "Arroz",
+                "qt_doada_alimento": 2,
+                "qt_alimento": 10,
+                "sg_medida_alimento": "KG"
+            },
+            {
+                "nm_alimento": "Leite",
+                "qt_doada_alimento": 2,
+                "qt_alimento": 8,
+                "sg_medida_alimento": "L"
+            },
+            {
+                "nm_alimento": "Feijão",
+                "qt_doada_alimento": 5,
+                "qt_alimento": 20,
+                "sg_medida_alimento": "KG"
+            }
+        ],
+        "cd_imagem_campanha": "6",
+        "qt_doacoes_campanha": 0,
+        "qt_total_campanha": 10,
+        "ds_acao_campanha": "A fome é um problema grave que afeta milhões de pessoas no Brasil e no mundo. Segundo a Organização das Nações Unidas para a Alimentação e a Agricultura (FAO), cerca de 10,3 milhões de brasileiros vivem em situação de insegurança alimentar grave, ou seja, passam fome. Além disso, a pandemia de Covid-19 agravou ainda mais essa situação, aumentando o desemprego, a pobreza e a vulnerabilidade social.\n\nDiante desse cenário, um grupo de voluntários decidiu criar uma campanha de combate à fome, chamada “Alimente uma Vida”. O objetivo da campanha é arrecadar alimentos não perecíveis, como arroz, feijão, macarrão, óleo, leite em pó, entre outros, e distribuí-los para famílias carentes em diversas regiões do país. A campanha conta com o apoio de diversas entidades, como igrejas, escolas, empresas, ONGs e instituições públicas, que disponibilizam pontos de coleta e de entrega dos alimentos.\n\nA campanha “Alimente uma Vida” é uma iniciativa solidária e cidadã, que visa contribuir para a redução da fome e da desigualdade no Brasil. Ao participar da campanha, você estará ajudando a garantir o direito humano à alimentação adequada, que é essencial para a saúde, a dignidade e o desenvolvimento das pessoas. Além disso, você estará demonstrando sua generosidade, sua empatia e seu compromisso social com uma causa nobre e urgente.\n\nPara saber mais sobre a campanha, você pode visitar o site oficial [aqui], onde você encontrará informações sobre como doar, como se tornar um voluntário, como divulgar a campanha nas redes sociais, entre outras formas de colaborar. Você também pode entrar em contato com os organizadores da campanha pelo e-mail alimenteumavida@gmail.com ou pelo telefone (11) 99999-9999. Eles estarão à disposição para tirar suas dúvidas, receber suas sugestões e agradecer sua participação.\n\nA campanha “Alimente uma Vida” é uma oportunidade de você fazer a diferença no mundo, transformando a realidade de milhares de pessoas que sofrem com a fome. Ao doar alimentos ou dinheiro, você estará alimentando não apenas o corpo, mas também a alma e a esperança de quem recebe. Você estará mostrando que se importa, que se solidariza e que se mobiliza por uma causa maior. Você estará fazendo parte de uma rede de amor e de cuidado, que se estende por todo o país.\n\nNão deixe de participar da campanha “Alimente uma Vida”. Sua ajuda é muito importante e valiosa. Lembre-se de que, juntos, podemos fazer muito mais. Juntos, podemos alimentar uma vida. Juntos, podemos mudar o mundo.",
+        "qt_arrecadada": 2,
+        "cd_foto_usuario": "1",
+        "nm_usuario": "João",
+        "nm_cidade_usuario": "Franca",
+        "sg_estado_usuario": "SP",
+        "qt_tempo_restante": "3 dias",
+        "nm_cidade_campanha": "Franca",
+        "sg_estado_campanha": "SP"
+    },
+    {
+        "_id": "7",
+        "nm_titulo_campanha": "Campanha de combate à fome",
+        "alimentos": [
+            {
+                "nm_alimento": "Arroz",
+                "qt_doada_alimento": 2,
+                "qt_alimento": 10,
+                "sg_medida_alimento": "KG"
+            },
+            {
+                "nm_alimento": "Leite",
+                "qt_doada_alimento": 2,
+                "qt_alimento": 8,
+                "sg_medida_alimento": "L"
+            },
+            {
+                "nm_alimento": "Feijão",
+                "qt_doada_alimento": 5,
+                "qt_alimento": 20,
+                "sg_medida_alimento": "KG"
+            }
+        ],
+        "cd_imagem_campanha": "1",
+        "qt_doacoes_campanha": 2,
+        "qt_total_campanha": 10,
+        "ds_acao_campanha": "A fome é um problema grave que afeta milhões de pessoas no Brasil e no mundo. Segundo a Organização das Nações Unidas para a Alimentação e a Agricultura (FAO), cerca de 10,3 milhões de brasileiros vivem em situação de insegurança alimentar grave, ou seja, passam fome. Além disso, a pandemia de Covid-19 agravou ainda mais essa situação, aumentando o desemprego, a pobreza e a vulnerabilidade social.\n\nDiante desse cenário, um grupo de voluntários decidiu criar uma campanha de combate à fome, chamada “Alimente uma Vida”. O objetivo da campanha é arrecadar alimentos não perecíveis, como arroz, feijão, macarrão, óleo, leite em pó, entre outros, e distribuí-los para famílias carentes em diversas regiões do país. A campanha conta com o apoio de diversas entidades, como igrejas, escolas, empresas, ONGs e instituições públicas, que disponibilizam pontos de coleta e de entrega dos alimentos.\n\nA campanha “Alimente uma Vida” é uma iniciativa solidária e cidadã, que visa contribuir para a redução da fome e da desigualdade no Brasil. Ao participar da campanha, você estará ajudando a garantir o direito humano à alimentação adequada, que é essencial para a saúde, a dignidade e o desenvolvimento das pessoas. Além disso, você estará demonstrando sua generosidade, sua empatia e seu compromisso social com uma causa nobre e urgente.\n\nPara saber mais sobre a campanha, você pode visitar o site oficial [aqui], onde você encontrará informações sobre como doar, como se tornar um voluntário, como divulgar a campanha nas redes sociais, entre outras formas de colaborar. Você também pode entrar em contato com os organizadores da campanha pelo e-mail alimenteumavida@gmail.com ou pelo telefone (11) 99999-9999. Eles estarão à disposição para tirar suas dúvidas, receber suas sugestões e agradecer sua participação.\n\nA campanha “Alimente uma Vida” é uma oportunidade de você fazer a diferença no mundo, transformando a realidade de milhares de pessoas que sofrem com a fome. Ao doar alimentos ou dinheiro, você estará alimentando não apenas o corpo, mas também a alma e a esperança de quem recebe. Você estará mostrando que se importa, que se solidariza e que se mobiliza por uma causa maior. Você estará fazendo parte de uma rede de amor e de cuidado, que se estende por todo o país.\n\nNão deixe de participar da campanha “Alimente uma Vida”. Sua ajuda é muito importante e valiosa. Lembre-se de que, juntos, podemos fazer muito mais. Juntos, podemos alimentar uma vida. Juntos, podemos mudar o mundo.",
+        "qt_arrecadada": 2,
+        "cd_foto_usuario": "1",
+        "nm_usuario": "João",
+        "nm_cidade_usuario": "Franca",
+        "sg_estado_usuario": "SP",
+        "qt_tempo_restante": "3 dias",
+        "nm_cidade_campanha": "Franca",
+        "sg_estado_campanha": "SP"
+    },
+    {
+        "_id": "8",
+        "nm_titulo_campanha": "Campanha de combate à fome",
+        "alimentos": [
+            {
+                "nm_alimento": "Arroz",
+                "qt_doada_alimento": 2,
+                "qt_alimento": 10,
+                "sg_medida_alimento": "KG"
+            },
+            {
+                "nm_alimento": "Leite",
+                "qt_doada_alimento": 2,
+                "qt_alimento": 8,
+                "sg_medida_alimento": "L"
+            },
+            {
+                "nm_alimento": "Feijão",
+                "qt_doada_alimento": 5,
+                "qt_alimento": 20,
+                "sg_medida_alimento": "KG"
+            }
+        ],
+        "cd_imagem_campanha": "4",
+        "qt_doacoes_campanha": 20,
+        "qt_total_campanha": 10,
+        "ds_acao_campanha": "A fome é um problema grave que afeta milhões de pessoas no Brasil e no mundo. Segundo a Organização das Nações Unidas para a Alimentação e a Agricultura (FAO), cerca de 10,3 milhões de brasileiros vivem em situação de insegurança alimentar grave, ou seja, passam fome. Além disso, a pandemia de Covid-19 agravou ainda mais essa situação, aumentando o desemprego, a pobreza e a vulnerabilidade social.\n\nDiante desse cenário, um grupo de voluntários decidiu criar uma campanha de combate à fome, chamada “Alimente uma Vida”. O objetivo da campanha é arrecadar alimentos não perecíveis, como arroz, feijão, macarrão, óleo, leite em pó, entre outros, e distribuí-los para famílias carentes em diversas regiões do país. A campanha conta com o apoio de diversas entidades, como igrejas, escolas, empresas, ONGs e instituições públicas, que disponibilizam pontos de coleta e de entrega dos alimentos.\n\nA campanha “Alimente uma Vida” é uma iniciativa solidária e cidadã, que visa contribuir para a redução da fome e da desigualdade no Brasil. Ao participar da campanha, você estará ajudando a garantir o direito humano à alimentação adequada, que é essencial para a saúde, a dignidade e o desenvolvimento das pessoas. Além disso, você estará demonstrando sua generosidade, sua empatia e seu compromisso social com uma causa nobre e urgente.\n\nPara saber mais sobre a campanha, você pode visitar o site oficial [aqui], onde você encontrará informações sobre como doar, como se tornar um voluntário, como divulgar a campanha nas redes sociais, entre outras formas de colaborar. Você também pode entrar em contato com os organizadores da campanha pelo e-mail alimenteumavida@gmail.com ou pelo telefone (11) 99999-9999. Eles estarão à disposição para tirar suas dúvidas, receber suas sugestões e agradecer sua participação.\n\nA campanha “Alimente uma Vida” é uma oportunidade de você fazer a diferença no mundo, transformando a realidade de milhares de pessoas que sofrem com a fome. Ao doar alimentos ou dinheiro, você estará alimentando não apenas o corpo, mas também a alma e a esperança de quem recebe. Você estará mostrando que se importa, que se solidariza e que se mobiliza por uma causa maior. Você estará fazendo parte de uma rede de amor e de cuidado, que se estende por todo o país.\n\nNão deixe de participar da campanha “Alimente uma Vida”. Sua ajuda é muito importante e valiosa. Lembre-se de que, juntos, podemos fazer muito mais. Juntos, podemos alimentar uma vida. Juntos, podemos mudar o mundo.",
+        "qt_arrecadada": 2,
+        "cd_foto_usuario": "1",
+        "nm_usuario": "João",
+        "nm_cidade_usuario": "Franca",
+        "sg_estado_usuario": "SP",
+        "qt_tempo_restante": "3 dias",
+        "nm_cidade_campanha": "Franca",
+        "sg_estado_campanha": "SP"
+    },
+    {
+        "_id": "9",
+        "nm_titulo_campanha": "Campanha de combate à fome",
+        "alimentos": [
+            {
+                "nm_alimento": "Arroz",
+                "qt_doada_alimento": 2,
+                "qt_alimento": 10,
+                "sg_medida_alimento": "KG"
+            },
+            {
+                "nm_alimento": "Leite",
+                "qt_doada_alimento": 2,
+                "qt_alimento": 8,
+                "sg_medida_alimento": "L"
+            },
+            {
+                "nm_alimento": "Feijão",
+                "qt_doada_alimento": 5,
+                "qt_alimento": 20,
+                "sg_medida_alimento": "KG"
+            }
+        ],
+        "cd_imagem_campanha": "7",
+        "qt_doacoes_campanha": 20,
+        "qt_total_campanha": 10,
+        "ds_acao_campanha": "A fome é um problema grave que afeta milhões de pessoas no Brasil e no mundo. Segundo a Organização das Nações Unidas para a Alimentação e a Agricultura (FAO), cerca de 10,3 milhões de brasileiros vivem em situação de insegurança alimentar grave, ou seja, passam fome. Além disso, a pandemia de Covid-19 agravou ainda mais essa situação, aumentando o desemprego, a pobreza e a vulnerabilidade social.\n\nDiante desse cenário, um grupo de voluntários decidiu criar uma campanha de combate à fome, chamada “Alimente uma Vida”. O objetivo da campanha é arrecadar alimentos não perecíveis, como arroz, feijão, macarrão, óleo, leite em pó, entre outros, e distribuí-los para famílias carentes em diversas regiões do país. A campanha conta com o apoio de diversas entidades, como igrejas, escolas, empresas, ONGs e instituições públicas, que disponibilizam pontos de coleta e de entrega dos alimentos.\n\nA campanha “Alimente uma Vida” é uma iniciativa solidária e cidadã, que visa contribuir para a redução da fome e da desigualdade no Brasil. Ao participar da campanha, você estará ajudando a garantir o direito humano à alimentação adequada, que é essencial para a saúde, a dignidade e o desenvolvimento das pessoas. Além disso, você estará demonstrando sua generosidade, sua empatia e seu compromisso social com uma causa nobre e urgente.\n\nPara saber mais sobre a campanha, você pode visitar o site oficial [aqui], onde você encontrará informações sobre como doar, como se tornar um voluntário, como divulgar a campanha nas redes sociais, entre outras formas de colaborar. Você também pode entrar em contato com os organizadores da campanha pelo e-mail alimenteumavida@gmail.com ou pelo telefone (11) 99999-9999. Eles estarão à disposição para tirar suas dúvidas, receber suas sugestões e agradecer sua participação.\n\nA campanha “Alimente uma Vida” é uma oportunidade de você fazer a diferença no mundo, transformando a realidade de milhares de pessoas que sofrem com a fome. Ao doar alimentos ou dinheiro, você estará alimentando não apenas o corpo, mas também a alma e a esperança de quem recebe. Você estará mostrando que se importa, que se solidariza e que se mobiliza por uma causa maior. Você estará fazendo parte de uma rede de amor e de cuidado, que se estende por todo o país.\n\nNão deixe de participar da campanha “Alimente uma Vida”. Sua ajuda é muito importante e valiosa. Lembre-se de que, juntos, podemos fazer muito mais. Juntos, podemos alimentar uma vida. Juntos, podemos mudar o mundo.",
+        "qt_arrecadada": 2,
+        "cd_foto_usuario": "1",
+        "nm_usuario": "João",
+        "nm_cidade_usuario": "Franca",
+        "sg_estado_usuario": "SP",
+        "qt_tempo_restante": "3 dias",
+        "nm_cidade_campanha": "Franca",
+        "sg_estado_campanha": "SP"
+    }
+]

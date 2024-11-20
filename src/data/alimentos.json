@@ -1,0 +1,292 @@
+{
+    "Mais doados": [
+        {
+            "alimento": "Arroz",
+            "medida": "KG"
+        },
+        {
+            "alimento": "Feijão",
+            "medida": "KG"
+        },
+        {
+            "alimento": "Leite",
+            "medida": "L"
+        },
+        {
+            "alimento": "Leite em pó",
+            "medida": "KG"
+        },
+        {
+            "alimento": "Macarrão",
+            "medida": "KG"
+        },
+        {
+            "alimento": "Café",
+            "medida": "KG"
+        },
+        {
+            "alimento": "Açúcar",
+            "medida": "KG"
+        },
+        {
+            "alimento": "Óleo",
+            "medida": "L"
+        },
+        {
+            "alimento": "Ovos",
+            "medida": "DZ"
+        },
+        {
+            "alimento": "Azeite",
+            "medida": "L"
+        },
+        {
+            "alimento": "Sal",
+            "medida": "KG"
+        },
+        {
+            "alimento": "Farinha de trigo",
+            "medida": "KG"
+        },
+        {
+            "alimento": "Fubá",
+            "medida": "KG"
+        }
+    ],
+    "Carnes": [
+        {
+            "alimento": "Carne Bovina",
+            "medida": "KG"
+        },
+        {
+            "alimento": "Linguiça",
+            "medida": "KG"
+        },
+        {
+            "alimento": "Carne de Porco",
+            "medida": "KG"
+        },
+        {
+            "alimento": "Bisteca",
+            "medida": "KG"
+        },
+        {
+            "alimento": "Mortadela",
+            "medida": "KG"
+        },
+        {
+            "alimento": "Carne de Frango",
+            "medida": "KG"
+        },
+        {
+            "alimento": "Carne de Peixe",
+            "medida": "KG"
+        }
+    ],
+    "Verduras e Legumes": [
+        {
+            "alimento": "Alface",
+            "medida": "KG"
+        },
+        {
+            "alimento": "Tomate",
+            "medida": "KG"
+        },
+        {
+            "alimento": "Alho",
+            "medida": "KG"
+        },
+        {
+            "alimento": "Cebola",
+            "medida": "KG"
+        },
+        {
+            "alimento": "Batata",
+            "medida": "KG"
+        },
+        {
+            "alimento": "Cenoura",
+            "medida": "KG"
+        },
+        {
+            "alimento": "Pimentão",
+            "medida": "KG"
+        },
+        {
+            "alimento": "Abóbora",
+            "medida": "KG"
+        },
+        {
+            "alimento": "Aveia",
+            "medida": "KG"
+        },
+        {
+            "alimento": "Batata-doce",
+            "medida": "KG"
+        },
+        {
+            "alimento": "Beterraba",
+            "medida": "KG"
+        },
+        {
+            "alimento": "Brócolis",
+            "medida": "KG"
+        },
+        {
+            "alimento": "Cebolinha",
+            "medida": "KG"
+        },
+        {
+            "alimento": "Couve",
+            "medida": "KG"
+        },
+        {
+            "alimento": "Ervilha",
+            "medida": "KG"
+        },
+        {
+            "alimento": "Espinafre",
+            "medida": "KG"
+        },
+        {
+            "alimento": "Lentilha",
+            "medida": "KG"
+        },
+        {
+            "alimento": "Mandioca",
+            "medida": "KG"
+        },
+        {
+            "alimento": "Milho",
+            "medida": "KG"
+        },
+        {
+            "alimento": "Pepino",
+            "medida": "KG"
+        },
+        {
+            "alimento": "Rúcula",
+            "medida": "KG"
+        },
+        {
+            "alimento": "Repolho",
+            "medida": "KG"
+        },
+        {
+            "alimento": "Salsa",
+            "medida": "KG"
+        }
+    ],
+    "Frutas": [
+        {
+            "alimento": "Laranja",
+            "medida": "KG"
+        },
+        {
+            "alimento": "Mamão",
+            "medida": "KG"
+        },
+        {
+            "alimento": "Maçã",
+            "medida": "KG"
+        },
+        {
+            "alimento": "Melancia",
+            "medida": "KG"
+        },
+        {
+            "alimento": "Limão",
+            "medida": "KG"
+        },
+        {
+            "alimento": "Tangerina",
+            "medida": "KG"
+        },
+        {
+            "alimento": "Manga",
+            "medida": "KG"
+        },
+        {
+            "alimento": "Abacaxi",
+            "medida": "KG"
+        },
+        {
+            "alimento": "Pêra",
+            "medida": "KG"
+        },
+        {
+            "alimento": "Melão",
+            "medida": "KG"
+        },
+        {
+            "alimento": "Banana",
+            "medida": "KG"
+        },
+        {
+            "alimento": "Uva",
+            "medida": "KG"
+        },
+        {
+            "alimento": "Maracujá",
+            "medida": "KG"
+        },
+        {
+            "alimento": "Abacate",
+            "medida": "KG"
+        },
+        {
+            "alimento": "Coco",
+            "medida": "KG"
+        },
+        {
+            "alimento": "Caqui",
+            "medida": "KG"
+        },
+        {
+            "alimento": "Ameixa",
+            "medida": "KG"
+        },
+        {
+            "alimento": "Mexerica",
+            "medida": "KG"
+        },
+        {
+            "alimento": "Pêssego",
+            "medida": "KG"
+        }
+    ],
+    "Derivados do leite": [
+        {
+            "alimento": "Queijo",
+            "medida": "KG"
+        },
+        {
+            "alimento": "Margarina",
+            "medida": "KG"
+        },
+        {
+            "alimento": "Leite sem lactose",
+            "medida": "L"
+        },
+        {
+            "alimento": "Manteiga",
+            "medida": "KG"
+        },
+        {
+            "alimento": "Creme de leite",
+            "medida": "KG"
+        },
+        {
+            "alimento": "Requeijão",
+            "medida": "KG"
+        },
+        {
+            "alimento": "Iogurte",
+            "medida": "L"
+        },
+        {
+            "alimento": "Maionese",
+            "medida": "L"
+        }
+    ]
+}
