@@ -81,10 +81,10 @@ Versão atual 0.0.3
 ## ✒️ Autores
 
 * **Yago Mouro** - ([LinkedIn](https://www.linkedin.com/in/yagomouro/))
-* **Frederico Barbosa** - (https://github.com/Fredericobarbosa)
+* **Frederico Pessoa** - (https://github.com/Fredericobarbosa)
 * **Rafael Victor** - (https://github.com/rafaelVictor05)
 * **Jorge Patrocinio** - (https://github.com/jorgesantos001)
-* **Eduardo Gibertoni** - (https://github.com/EduardoGibertoniCamillo)
+* **Eduardo Gibertoni** - (https://github.com/EduardoGibertoni)
 
 
 ## 🧩 KanBan
