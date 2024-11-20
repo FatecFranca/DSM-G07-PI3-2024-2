@@ -73,18 +73,26 @@ Versão atual 0.0.3
 
 <img src="public/assets/modelagem banco/modelagemConceitual.png">
 
+
 ## Diagrama NoAM
 
 <img src="docs/NoAM.png">
 
 ## ✒️ Autores
 
-* **Yago Mouro** - (https://github.com/yagomouro)
+* **Yago Mouro** - ([LinkedIn](https://www.linkedin.com/in/yagomouro/))
 * **Leonardo Victor** - (https://github.com/Leovpf)
 * **Rafael Victor** - (https://github.com/rafaelVictor05)
 * **Jorge Patrocinio** - (https://github.com/jorgesantos001)
 * **Eduardo Gibertoni** - (https://github.com/EduardoGibertoniCamillo)
 
+
+## 🧩 KanBan
+
+Como esse projeto está dentro da organização da Fatec, não foi possível anexar o KanBan aqui. 
+Por isso, foi utilizado no repositório anterior, onde pode ser acessado no Link:
+
+* [KanBan - Nação Nutrida](https://github.com/users/yagomouro/projects/2/views/1)
 
 ## 🎁 Agradecimentos
 
